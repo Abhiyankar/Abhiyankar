@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning skeletal animations in openGL and Vulkan and also trying to coop with my college semsesters 🤞.
 - 📫 Contact me : abhi.shakti123@gmail.com
 
-[![Abhiyankar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhiyankar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhiyankar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhiyankar&theme=react-dark)](https://github.com/Abhiyankar/github-readme-activity-graph)
