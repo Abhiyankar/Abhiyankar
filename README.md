@@ -5,7 +5,7 @@ I am a 3rd Year B.Tech student who is passionate about Software Development and 
 
 * I'm based in India
 * Contact me at [abhi.shakti123@gmail.com](mailto:abhi.shakti123@gmail.com)
-* GameDev at [abhiyankar.github.io](abhiyankar.github.io)
+* GameDev at [abhiyankar.github.io](https://abhiyankar.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
