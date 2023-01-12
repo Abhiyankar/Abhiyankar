@@ -11,5 +11,17 @@ I am a 3rd Year B.Tech student who is passionate about Software Development and 
 
 # Works with : -
 
-![NotShowing](C++Logo-removebg-preview.png)
+## Programming Languages : -
+ * C++
+ * C
+ * C#
+ * Python
 
+## Tools and Engines : -
+  * Unity
+  * Unreal Engine
+  * Godot
+  * Visual Studio
+  * Git
+  * Photoshop
+  * Blender
