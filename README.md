@@ -11,8 +11,5 @@ I am a 3rd Year B.Tech student who is passionate about Software Development and 
 
 # Works with : -
 
-<p align="center">
-  <img src="C++Logo.png" width="350" title="hover text">
-  <img src="C++Logo.png" width="350" alt="accessibility text">
-</p>
+![NotShowing](C++Logo-removebg-preview.png)
 
